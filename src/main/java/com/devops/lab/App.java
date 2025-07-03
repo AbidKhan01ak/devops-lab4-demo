@@ -6,5 +6,6 @@ public class App
     {
         System.out.println( "Hello From Continuous Integration Trigger!");
 	System.out.println("DevOps Lab 4 completes if the first Line of Output shows Started by SCM");
+	System.out.println("Hello From CI");
     }
 }
